@@ -23,3 +23,19 @@ tiered_50_discount: 50% off for units >15 if total quantity >30
 Gift wrap fee: $1 per unit (optional)
 
 Shipping fee: $5 per package (10 units per package)
+
+# How It Works
+
+Prompts user for quantity and gift wrap option for each product.
+
+- Calculates:
+
+- Subtotal
+
+- Best applicable discount
+
+- Shipping and gift wrap fees
+
+- Final total
+
+- Outputs a detailed breakdown per product and for the overall cart.
